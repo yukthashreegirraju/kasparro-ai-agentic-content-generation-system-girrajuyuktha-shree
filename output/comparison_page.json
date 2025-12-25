@@ -1,0 +1,10 @@
+{
+  "glowboost": {
+    "price": 699,
+    "concentration": "10% Vitamin C"
+  },
+  "competitor": {
+    "price": 999,
+    "concentration": "15% Vitamin C"
+  }
+}
